@@ -1,17 +1,11 @@
-- 👋 Hi, I’m Dakota, a.k.a @fear-the-spear (#GoNoles!).
-- 👀 I’m interested in creating web apps to better the world.
-- 🌱 I’m currently learning HTML & CSS, JS (JavaScript) and MongoDB. 
-- 💞️ I’m looking to collaborate on anything that will benefit all parties involved.
+- 👋 Hi, I’m Dakota, a.k.a @fear-the-spear - Go Noles!
+- 👀 I’m currently working on building my portfolie as I am looking to get into the IT/CompSci field permanently.
+- 🌱 I began learning to code with JavaScript/HTML/CSS, but have since expanded to Python and MySQL.
+- 💞️ Collaboration is the key to growth. I am willing to collaborate with just about anyone on just about anything.
 - 📫 How to reach me:
-      cell: 419-276-1101
+      cell: 419-549-6950
       email: dakotabbowman@outlook.com
-             dakotabbowman@gmail.com
-             dk@bfcportal.me (last resort!)
 
-  Thanks for taking the time to visit and read thru my profile. Please feel free to reach out any time!
+Thanks for taking the time to visit and read through my profile. Please feel free to reach out any time!
 
-  Collaborations are always appreciated - always.
-  
-  With Love,
-
-  Dakota
+Collaborations are always appreciated and welcomed.
